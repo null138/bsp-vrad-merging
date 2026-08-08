@@ -14,7 +14,7 @@ Instead of copying the actual brushes or models that produce the shadows, the to
 
 2. Replace the expensive geometry in the source BSP with a cheaper,
    simplified version. Alternatively, remove the geometry entirely if that
-   better suits your use case.
+   better suits your use case. Save as target BSP.
 
 3. Fully compile the **target BSP** containing the cheaper geometry.
 
